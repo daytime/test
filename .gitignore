@@ -1,0 +1,9 @@
+# ローカル設定
+config/local.json
+
+# 一時ファイル
+*.tmp
+*.log
+
+# IDE設定（例：VSCode）
+.vscode/
